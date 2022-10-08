@@ -1,17 +1,17 @@
-﻿Region,id,School,Student
-NSW,1,Government,802776
-NSW,1,Non-Government,441059
-VIC,2,Government,645672
-VIC,2,Non-Government,365506
-QLD,3,Government,575173
-QLD,3,Non-Government,292174
-SA,4,Government,174244
-SA,4,Non-Government,100058
-WA,5,Government,292545
-WA,5,Non-Government,143843
-TAS,6,Government,56055
-TAS,6,Non-Government,25690
-NT,7,Government,30097
-NT,7,Non-Government,10467
-ACT,8,Government,46193
-ACT,8,Non-Government,29165
+﻿States,School,Student
+New South Wales,Government,802776
+New South Wales,Non-Government,441059
+Victoria,Government,645672
+Victoria,Non-Government,365506
+Queensland,Government,575173
+Queensland,Non-Government,292174
+South Australia,Government,174244
+South Australia,Non-Government,100058
+Western Australia,Government,292545
+Western Australia,Non-Government,143843
+Tasmania,Government,56055
+Tasmania,Non-Government,25690
+Northern Territory,Government,30097
+Northern Territory,Non-Government,10467
+Australian Capital Territory,Government,46193
+Australian Capital Territory,Non-Government,29165
