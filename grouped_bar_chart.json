@@ -22,7 +22,7 @@
       {"category":"Males 45-74", "group": "No study or employment", "value":34.8},
      {"category":"Females 45-74", "group": "Fully engaged", "value":32.7},
       {"category":"Females 45-74", "group": "Partially engaged", "value":24.3},
-      {"category":"Females 45-74", "group": "No study or employment", "value":43.1},
+      {"category":"Females 45-74", "group": "No study or employment", "value":43.1}
     ]
   },
   "mark": "bar",
